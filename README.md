@@ -13,7 +13,7 @@ A simple set of emoji to improve readability of source control commit messages :
 | :wrench:           | Config, tools, environment    | `##config`                          | `:wrench:`           |
 
 ### Background
-I love the idea of using emoji in commit messages, but I haven't found a set out there so far that feels quite right to me. The list below is a minimal set of emoji that can easily be used to improve the readability of your commit messages.
+I love the idea of using emoji in commit messages, but I haven't found a set out there so far that feels quite right to me. The list above is a minimal set of emoji that can easily be used to improve the readability of your commit messages.
 
 ### Setup
 Add each of the emojis as a text expansion shortcut: on Mac OS X you can use the built-in Mac text expansion functionality (within System Preferences -> Keyboard -> Text), on other platforms you can use a tool such as TextExpander.
