@@ -2,15 +2,15 @@
 
 A simple set of emoji to improve readability of source control commit messages :thumbsup:
 
-| Emoji              | Usage                         | Recommended text expansion shortcut | Standard shortcode   |
-| ------------------ | ----------------------------- | ----------------------------------- | -------------------- |
-| :sparkles:         | Initial commits, new features | `##new`                             | `:sparkles:`         |
-| :art:              | Visual/design, UI             | `##visual`                          | `:art:`              |
-| :books:            | Documentation                 | `##docs`                            | `:books:`            |
-| :construction:     | Work in progress              | `##wip`                             | `:construction:`     |
-| :white_check_mark: | Tests                         | `##tests`                           | `:white_check_mark:` |
-| :bug:              | Bug fixes                     | `##bugs`                            | `:bug:`              |
-| :wrench:           | Config, tools, environment    | `##config`                          | `:wrench:`           |
+| Emoji              | Usage                         | Text expansion shortcut |
+| ------------------ | ----------------------------- | ----------------------- |
+| :bug:              | Bug fixes                     | `##bugs`                |
+| :wrench:           | Config, tools, environment    | `##config`              |
+| :books:            | Documentation                 | `##docs`                |
+| :sparkles:         | New features, initial commits | `##new`                 |
+| :white_check_mark: | Tests                         | `##tests`               |
+| :art:              | Visual/design, UI             | `##visual`              |
+| :construction:     | Work in progress              | `##wip`                 |
 
 ### Background
 I love the idea of using emoji in commit messages, but I haven't found a set out there so far that feels quite right to me. The list above is a minimal set of emoji that can easily be used to improve the readability of your commit messages.
