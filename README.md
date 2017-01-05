@@ -3,7 +3,7 @@
 A simple set of emoji to improve readability of source control commit messages :thumbsup:
 
 | Emoji              | Usage                         | Text expansion shortcut |
-| ------------------ | ----------------------------- | ----------------------- |
+|       :---:        | :---                          | :---                    |
 | :bug:              | Bug fixes                     | `##bugs`                |
 | :wrench:           | Config, tools, environment    | `##config`              |
 | :books:            | Documentation                 | `##docs`                |
