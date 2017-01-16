@@ -20,3 +20,10 @@ Add each of the emojis as a text expansion shortcut: on Mac OS X you can use the
 
 ## Usage
 Prefix source control commit messages using the emoji above, and combine emoji where appropriate.
+
+## Alternatives
+- [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji)
+
+## Emoji references
+- [Emoji cheat sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+- [Emoji icons in GitHub Commit Messages](https://scotch.io/bar-talk/emoji-icons-in-github-commit-messages)
